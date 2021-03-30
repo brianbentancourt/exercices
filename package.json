@@ -1,0 +1,19 @@
+{
+  "name": "exercices",
+  "version": "1.0.0",
+  "description": "Problems to solve in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianbentancourt/exercices.git"
+  },
+  "author": "Brian Bentancourt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianbentancourt/exercices/issues"
+  },
+  "homepage": "https://github.com/brianbentancourt/exercices#readme"
+}
